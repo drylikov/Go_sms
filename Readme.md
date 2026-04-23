@@ -14,4 +14,3 @@ sms.Send("Hello World", "+19999999999")
 First export the `PHONE` environment variable to test against your number, and set your AWS credentials via the `AWS_*` environment variables.
 
 
-
